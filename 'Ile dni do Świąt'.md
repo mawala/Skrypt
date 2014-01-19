@@ -1,3 +1,4 @@
+```sh
 #!/bin/bash
 
 Dzien=`date +%j`
@@ -53,3 +54,4 @@ else
 fi
 
 exit 0
+```
